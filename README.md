@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samikshya Rajhansa
-- 👀 I’m interested in database management, Business analysis,J2EE
-- 🌱 I’m currently learning COREJAVA,J2EE,Mysql
+- 👀 I’m interested in database management, Business analysis
+- 🌱 I’m currently learning ,Mysql
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...https://www.linkedin.com/in/samikshya-rajhansa-56b478211
 
